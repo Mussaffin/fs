@@ -1,0 +1,13 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+
+li {
+    margin-top: 30px;
+    list-style-type: none;
+}
+
+main {
+    text-align: center;
+}
